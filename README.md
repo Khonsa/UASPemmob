@@ -1,19 +1,19 @@
 # UASPemmob
 UAS Pemrogaman Mobile Semester Genap
 
-Final Project
-Aplikasi booking tiket kereta
+Final Project/n
+Aplikasi booking tiket kereta/n
 
-*DB : SQLite
-*Bahasa : Java
+*DB : SQLite/n
+*Bahasa : Java/n
 
-Kelompok 8 :
-1. Khonsa Aziza Almash
-   18051204015
-   khonsa.18015@mhs.unesa.com
-2. Azzukhrufi Jannatul Azizah
-   18051204020
-   azzukhrufi.18020@mhs.unesa.ac.id
-3. Satria Adi Wicaksono
-   15051204035
-   satriaadi2015@gmail.com
+Kelompok 8 :/n
+1. Khonsa Aziza Almash/n
+   18051204015/n
+   khonsa.18015@mhs.unesa.com/n
+2. Azzukhrufi Jannatul Azizah/n
+   18051204020/n
+   azzukhrufi.18020@mhs.unesa.ac.id/n
+3. Satria Adi Wicaksono/n
+   15051204035/n
+   satriaadi2015@gmail.com/n
